@@ -26,7 +26,5 @@ int main(void) {
 	printf("Size of long double : %d \n",sizeof(long double));
 	printf("Size of char : %d \n",sizeof(char));
 
-	 //Size of int , long int ,unsigned, float have 4 bytes
-	// Size of long long, long long int, double have 8 bytes
 	return 0;
 }
